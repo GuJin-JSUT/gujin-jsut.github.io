@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on YuHui_的小狗窝</title>
+    <link>https://gujin-jsut.github.io/tags/</link>
+    <description>Recent content in Tags on YuHui_的小狗窝</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 01 May 2023 11:52:16 +0800</lastBuildDate><atom:link href="https://gujin-jsut.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>计算机学习</title>
+      <link>https://gujin-jsut.github.io/tags/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%AD%A6%E4%B9%A0/</link>
+      <pubDate>Mon, 01 May 2023 11:52:16 +0800</pubDate>
+      
+      <guid>https://gujin-jsut.github.io/tags/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%AD%A6%E4%B9%A0/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>开发</title>
+      <link>https://gujin-jsut.github.io/tags/%E5%BC%80%E5%8F%91/</link>
+      <pubDate>Mon, 01 May 2023 11:52:16 +0800</pubDate>
+      
+      <guid>https://gujin-jsut.github.io/tags/%E5%BC%80%E5%8F%91/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
